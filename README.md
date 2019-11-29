@@ -211,3 +211,4 @@ Changelog
 * 3.0.1 - Bugfix for unwritable cache folder
 * 3.0 - Version number update to calm down some automated scanners that think this is an old version of TimThumb
 * 1.0 - First proper release
+* 1.0.1 - Micro patch
